@@ -8,10 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon dist/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Azonesbz/SSR_RmT.git"
-  },
   "author": "Azones.dev",
   "license": "ISC",
   "bugs": {
